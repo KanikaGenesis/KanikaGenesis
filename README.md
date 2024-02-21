@@ -60,19 +60,25 @@
 <div align="center">
   <h3>🐍 My Contributions 🐍</h3>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KanikaGenesis/KanikaGenesis/output/github-contribution-grid-snake.svg" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KanikaGenesis/KanikaGenesis/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KanikaGenesis/KanikaGenesis/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/KanikaGenesis/KanikaGenesis/output/github-contribution-grid-snake.svg" />
+</picture>
+
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <h3 align="center">⚡ Stats ⚡</h3>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=KanikaGenesis&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=KanikaGenesis&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-kanika-mathurs-projects.vercel.app/api?username=KanikaGenesis&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KanikaGenesis&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-kanika-mathurs-projects.vercel.app/api/top-langs?username=KanikaGenesis&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 </div>
+
 <!---
 KanikaGenesis/KanikaGenesis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
