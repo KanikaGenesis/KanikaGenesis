@@ -10,9 +10,13 @@
 
 <div align="left">
   
-- 👀 I’m interested in Full Stack Development
+- 👀 Experienced in Full Stack Development
   
-- 🌱 I’m currently learning Data Visualization
+- ☁️ Currently working with AWS, building serverless applications and cloud-based solutions
+  
+- 🌱 Incorporating Data Analysis skills in Medical Image Analysis
+  
+- ✨ Advocating for women in STEM and lifelong learning
   
 - 😄 Pronouns: she/her
    </div> 
