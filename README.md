@@ -10,13 +10,12 @@
 
 <div align="left">
   
-- 👀 Experienced in Full Stack Development
-  
+- 👀 Experienced in Full Stack Development 
 - ☁️ Currently working with AWS, building serverless applications and cloud-based solutions
-  
 - 🌱 Incorporating Data Analysis skills in Medical Image Analysis
-  
+- 💡 Passionate about integrating AI with impactful applications.
 - ✨ Advocating for women in STEM and lifelong learning
+  
   
 - 😄 Pronouns: she/her
    </div> 
